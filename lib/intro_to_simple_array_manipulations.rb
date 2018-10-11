@@ -13,3 +13,4 @@ end
 def using_shift(array)
   return array.shift
 end
+
