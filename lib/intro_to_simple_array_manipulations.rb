@@ -17,3 +17,7 @@ end
 def pop_with_args(array)
   return array.pop(2)
 end
+
+def shift_with_args(array)
+  return array.shit(2)
+end
